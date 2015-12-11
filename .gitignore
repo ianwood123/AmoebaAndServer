@@ -1,0 +1,12 @@
+AmoebaClient/Amoeba/build.xml
+*.properties
+*.class
+*.nps
+AmoebaClient/Amoeba/dist/*
+*.jar
+*.js
+*.png
+*.gif
+AmoebaClient/Amoeba/nbproject/*
+AmoebaSwerver/obj/*
+AmoebaSwerver/bin/*
